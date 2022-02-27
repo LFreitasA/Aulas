@@ -24,7 +24,6 @@ function faixaEtaria (idade){
     return idade<18 ? "Jovem" : idade>65 ? "idoso (a)" : "adulto(a)"
 }
 function apresenta(pessoa){
-    
     console.log(`Ola! meu nome é ${pessoa.nome}, sou um ${faixaEtaria(pessoa.idade)} de ${pessoa.idade} anos,${pessoa.altura}m de altura e sou ${pessoa.profissao}.`)
 }
 
