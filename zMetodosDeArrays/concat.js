@@ -6,3 +6,5 @@ const d = [7, 8]
 const resultado = a.concat(b, d)
 
 console.log(resultado)
+
+///juntar arrays

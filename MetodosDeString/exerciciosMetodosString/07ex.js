@@ -12,5 +12,5 @@ function validadorEmail(email) {
     }
 
 }
-email = "jose.messias@cubos.academy"
+email = "teste@teste.com"
 validadorEmail(email)
