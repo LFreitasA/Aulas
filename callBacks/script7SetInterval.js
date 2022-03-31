@@ -8,4 +8,4 @@ const contador = () => {
     numero++
 }
 
-const idSetInterval = setInterval(contador, -5000)
+const idSetInterval = setInterval(contador, 1000)
