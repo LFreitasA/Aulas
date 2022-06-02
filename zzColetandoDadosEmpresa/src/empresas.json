@@ -1,0 +1,26 @@
+[
+  [
+    {
+      "name": "Airbnb",
+      "domain": "airbnb.com",
+      "year_founded": 2008,
+      "industry": "Internet",
+      "employees_count": 14604,
+      "locality": "San Francisco",
+      "country": "United States",
+      "linkedin_url": "linkedin.com/company/airbnb"
+    }
+  ],
+  [
+    {
+      "name": "Airbnb",
+      "domain": "airbnb.com",
+      "year_founded": 2008,
+      "industry": "Internet",
+      "employees_count": 14604,
+      "locality": "San Francisco",
+      "country": "United States",
+      "linkedin_url": "linkedin.com/company/airbnb"
+    }
+  ]
+]

@@ -1,1 +1,9 @@
-[{"nome":"jose","idade":34},{"nome":"leonardo","idade":32},{"nome":"bruna","idade":32},{"nome":"ana","idade":32},{"nome":"mercedes","idade":32},{"nome":"mercedes","idade":32},{"nome":"mercedes","idade":32}]
+[
+  { "nome": "jose", "idade": 34 },
+  { "nome": "leonardo", "idade": 32 },
+  { "nome": "bruna", "idade": 32 },
+  { "nome": "ana", "idade": 32 },
+  { "nome": "mercedes", "idade": 32 },
+  { "nome": "mercedes", "idade": 32 },
+  { "nome": "mercedes", "idade": 32 }
+]

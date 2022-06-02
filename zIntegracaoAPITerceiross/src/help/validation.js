@@ -1,0 +1,3 @@
+const validateAtributes = () => {};
+
+console.log();
