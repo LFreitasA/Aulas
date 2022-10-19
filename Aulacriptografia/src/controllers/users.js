@@ -27,7 +27,7 @@ const userCreate = async (req, res) => {
     }
     const hash = (await pwd.hash(Buffer.from(senha))).toString("hex");
     const register = await query(
-      "insert into usuarios (nome, email, senha) values($1, $2, $3)",
+      "insert into usuarios (nome, email, senha) values($1, $2, $3) RETURNING *",
       [nome, email, hash]
     );
     return res.status(200).json("Usuário cadastrado com sucesso");
